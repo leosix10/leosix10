@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @leosix10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : contact.leosix@gmail.com
+- 20 yo french student 🇫🇷
+- ex-MMI Troyes 🦆
+- Licence Pro CIASIE, Nancy-Charlemagne 👨‍💻
+- DM me : contact.leosix@gmail.com 📧
 
 <!---
 leosix10/leosix10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
