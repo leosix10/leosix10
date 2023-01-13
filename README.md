@@ -1,3 +1,5 @@
+# Hi, I'm Léo 👋
+
 - 20 yo french student 🇫🇷
 - ex-MMI Troyes 🦆
 - Licence Pro CIASIE, Nancy-Charlemagne 👨‍💻
