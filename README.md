@@ -1,8 +1,8 @@
 # Hi, I'm Léo 👋
 
 - 20 yo french student 🇫🇷
-- ex-MMI Troyes 🦆
-- Licence Pro CIASIE, Nancy-Charlemagne 👨‍💻
+- ex-MMI Troyes (URCA) 🦆
+- Licence Pro CIASIE, Nancy-Charlemagne (University of Lorraine) 👨‍💻
 - DM me : contact.leosix@gmail.com 📧
 
 # 💻 Tech Stack:
@@ -33,6 +33,9 @@
   </a> 
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+  </a> 
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
