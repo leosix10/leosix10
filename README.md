@@ -37,6 +37,9 @@
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="40"/> 
   </a> 
+  <a href="https://vuejs.org" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" height="40"/> 
+  </a> 
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/> 
   </a> 
