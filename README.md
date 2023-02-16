@@ -1,8 +1,8 @@
 # Hi, I'm Léo 👋
 
 - 20 yo french student 🇫🇷
-- ex-MMI Troyes (URCA) 🦆
-- Licence Pro CIASIE, Nancy-Charlemagne (University of Lorraine) 👨‍💻
+- DUT MMI, IUT de Troyes (University of Reims Champagne-Ardenne) 🦆
+- Licence Pro CIASIE, IUT Nancy-Charlemagne (University of Lorraine) 👨‍💻
 - DM me : contact.leosix@gmail.com 📧
 
 # 💻 Tech Stack:
