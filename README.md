@@ -65,6 +65,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leosix10&theme=light&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leosix10&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=leosix10&theme=light&no-frame=true&no-bg=false&margin-w=4)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=leosix10&limit=5&theme=light&combine_all_yearly_contributions=true)
+
+
 <!---
 leosix10/leosix10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
