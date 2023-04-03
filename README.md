@@ -5,7 +5,7 @@
 - Licence Pro CIASIE, IUT Nancy-Charlemagne (University of Lorraine) 👨‍💻
 - DM me : contact.leosix@gmail.com 📧
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> 
@@ -60,7 +60,7 @@
   </a> 
 </p>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leosix10&theme=light&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leosix10&theme=light&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leosix10&theme=light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -69,7 +69,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=leosix10&theme=light&no-frame=true&no-bg=false&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=leosix10&limit=5&theme=light&combine_all_yearly_contributions=true)
 
 
