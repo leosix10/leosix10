@@ -1,6 +1,6 @@
 # Hi, I'm Léo 👋
 
-[![(https://visitcount.itsvg.in/api?id=leosix10&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=leosix10&icon=0&color=6)](https://visitcount.itsvg.in)
 
 - 20 yo french student 🇫🇷
 - DUT MMI, IUT de Troyes (University of Reims Champagne-Ardenne) 🦆
