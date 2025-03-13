@@ -1,10 +1,9 @@
 # Hi, I'm Léo 👋
 
-[![](https://visitcount.itsvg.in/api?id=leosix10&icon=0&color=6)](https://visitcount.itsvg.in)
-
-- 21 yo french student 🇫🇷
-- DUT MMI, IUT de Troyes (University of Reims Champagne-Ardenne) 🦆
-- Licence Pro CIASIE, IUT Nancy-Charlemagne (University of Lorraine) 👨‍💻
+- 22 yo french student 🇫🇷
+- UX/UI Designer
+- Bachelor in Multimedia and Internet Professions (BUT MMI)
+- Master in Graphic and Interface Design (Master DGI)
 - DM me : contact.leosix@gmail.com 📧
 
 ## 💻 Tech Stack:
@@ -27,20 +26,8 @@
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/> 
   </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> 
-  </a> 
-  <a href="https://wordpress.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" height="40"/> 
-  </a> 
   <a href="https://vuejs.org" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/> 
@@ -51,22 +38,28 @@
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="40"/> 
   </a> 
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40"/>
-  </a> 
 </p>
 
-### Design
+### Design and no-code tools
 
 <p align="left"> 
+  <a href="https://www.photoshop.com/en" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="40"/> 
+  </a> 
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" height="40"/> 
+  </a> 
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> 
   </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="40"/> 
+  <a href="https://wordpress.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" height="40"/> 
   </a> 
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" height="40"/> 
+  <a href="https://www.framer.com/" target="_blank"> 
+    <img src="https://www.svgrepo.com/show/452207/framer.svg" alt="Framer" height="40"/> 
+  </a> 
+  <a href="https://webflow.com/" target="_blank"> 
+    <img src="https://logosandtypes.com/wp-content/uploads/2024/02/webflow.svg" alt="Webflow" height="40"/> 
   </a> 
 </p>
 
