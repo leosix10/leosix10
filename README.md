@@ -1,6 +1,6 @@
 # Hi, I'm Léo 👋
 
-- 22 yo french student 🇫🇷
+- 23 yo french student 🇫🇷
 - UX/UI Designer
 - Bachelor in Multimedia and Internet Professions (BUT MMI)
 - Master in Graphic and Interface Design (Master DGI)
